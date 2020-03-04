@@ -5,7 +5,7 @@ ruby '2.6.3'
 
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'mysql2', '>= 0.4.4'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 gem 'rack-cors'
 gem 'rails', '~> 6.0.0.rc2'
 gem 'unicorn'
